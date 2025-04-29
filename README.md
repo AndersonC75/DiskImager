@@ -6,10 +6,7 @@
 
 Uma ferramenta gráfica simples para Windows, criada em Python, que permite criar imagens de disco brutas (arquivos `.img`) a partir de pendrives USB e cartões MicroSD. Ideal para backups completos ou para duplicar dispositivos.
 
-## 🖼️ Screenshot
-
-[INSERIR SCREENSHOT DA INTERFACE AQUI]
-*Você pode tirar um print da janela do programa e fazer upload para o repositório, depois referenciar o link aqui. Ex: ![GUI Screenshot](screenshot.png)*
+![Diskimager](https://github.com/user-attachments/assets/a3626c35-b8a1-4a49-9a52-525d2df261db)
 
 ## ✨ Funcionalidades
 
